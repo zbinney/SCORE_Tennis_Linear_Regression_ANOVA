@@ -6,7 +6,7 @@ To run this tutorial, open R or RStudio and:
 
 1. Ensure you have installed the `learnr` package using `install.packages("learnr")` or something similar.
 
-2. Download the `Tennis_ace_rate_final.Rmd` and `atp_matches_2023_analysis.csv` **to the same folder on your computer.**
+2. Download the `Tennis_ace_rate_final.Rmd` and `atp_matches_2023_analysis.csv` **to the same folder on your computer.** To do this you may click on each file name above, then click the three dots `...` in the upper right hand corner of the screen, then click `Download`.
 
 3. Open `Tennis_ace_rate_final.Rmd` in RStudio and click on "Run Document" just above the file that opens.
 
