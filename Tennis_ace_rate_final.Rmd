@@ -482,7 +482,7 @@ ANOVA and linear regression are both linear models. They may seem different when
 ```{r conclusion_sport, echo = FALSE}
 
 question_text(
-  "In the end, we can conclude that: ",
+  "Summarize our answer to our research question - 'whether ace rates differ across different surfaces in tennis' - in 1-2 sentences.",
   answer("", correct = TRUE),
   rows = 5,
   correct = NULL,
@@ -498,7 +498,7 @@ A potential explanation for these differences is the impact of surface type on b
 ```{r conclusion_stats, echo = FALSE}
 
 question_text(
-  "How did statistics help us answer this question? What methods did we use? ",
+  "How did statistics help us answer our question? What methods did we use? ",
   answer("", correct = TRUE),
   rows = 5,
   correct = NULL,
